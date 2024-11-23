@@ -28,7 +28,7 @@
 Переконайтеся, що ваше середовище налаштоване правильно. Для запуску проєкту потрібні PHP версії 8.2 або вище, MySQL/MariaDB, а також Composer.
 
 1. Клонуйте репозиторій:  
-   `git clone https://github.com/ваш-репозиторій.git`
+   `https://github.com/Evgeniyy155/laravel-test-task`
 
 2. Скопіюйте файл конфігурації та налаштуйте базу даних:  
    `cp .env.example .env`
